@@ -3,7 +3,7 @@ Physics Student | Robotics Enthusiast
 
 ## About Me
 - Programming since 2018
-- Studying Physics at Ludwig-Maximilians-Unviersität (LMU)
+- Studying Physics at Ludwig-Maximilians-Unviersität
 
 <!--## Featured Projects
 ...
