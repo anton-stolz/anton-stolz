@@ -1,5 +1,5 @@
 # Hi, I am Anton 👋
-Physics Student | Rapid Prototyping
+Physics Student | Robotics Enthusiast
 
 ## About Me
 - Programming since 2018
